@@ -3,3 +3,5 @@ The program that unpacks automatically unpacks the folder or archive in the fold
 
 It is used for downloaded files, torrent or its analogues.
 My first public script in Python :)
+
+Source code is in SourceCode branch. Build version and Dist version.
